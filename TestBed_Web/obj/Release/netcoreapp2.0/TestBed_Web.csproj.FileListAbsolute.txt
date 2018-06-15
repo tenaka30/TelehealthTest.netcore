@@ -1,0 +1,13 @@
+D:\Projects\Code\Work\TestBed\TestBed_Web\bin\Release\netcoreapp2.0\TestBed_Web.deps.json
+D:\Projects\Code\Work\TestBed\TestBed_Web\bin\Release\netcoreapp2.0\TestBed_Web.runtimeconfig.json
+D:\Projects\Code\Work\TestBed\TestBed_Web\bin\Release\netcoreapp2.0\TestBed_Web.runtimeconfig.dev.json
+D:\Projects\Code\Work\TestBed\TestBed_Web\bin\Release\netcoreapp2.0\TestBed_Web.dll
+D:\Projects\Code\Work\TestBed\TestBed_Web\bin\Release\netcoreapp2.0\TestBed_Web.pdb
+D:\Projects\Code\Work\TestBed\TestBed_Web\bin\Release\netcoreapp2.0\TestBed_Data.dll
+D:\Projects\Code\Work\TestBed\TestBed_Web\bin\Release\netcoreapp2.0\TestBed_Data.pdb
+D:\Projects\Code\Work\TestBed\TestBed_Web\obj\Release\netcoreapp2.0\TestBed_Web.csprojResolveAssemblyReference.cache
+D:\Projects\Code\Work\TestBed\TestBed_Web\obj\Release\netcoreapp2.0\TestBed_Web.csproj.CoreCompileInputs.cache
+D:\Projects\Code\Work\TestBed\TestBed_Web\obj\Release\netcoreapp2.0\TestBed_Web.AssemblyInfoInputs.cache
+D:\Projects\Code\Work\TestBed\TestBed_Web\obj\Release\netcoreapp2.0\TestBed_Web.AssemblyInfo.cs
+D:\Projects\Code\Work\TestBed\TestBed_Web\obj\Release\netcoreapp2.0\TestBed_Web.dll
+D:\Projects\Code\Work\TestBed\TestBed_Web\obj\Release\netcoreapp2.0\TestBed_Web.pdb

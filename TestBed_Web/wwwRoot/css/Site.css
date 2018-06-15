@@ -1,0 +1,31 @@
+.pagebackroundcolour {
+    background-color: #f2f2f2;
+}
+
+/* Validation Highlighting */
+input.error, select.error {
+    border-color: #ff0000;
+    box-shadow: 1px 1px 10px 1px #f00;
+    -webkit-box-shadow: 1px 1px 10px 1px #f00;
+    -moz-box-shadow: 1px 1px 10px 1px #f00;
+}
+
+label.error {
+    padding-top: 5px;
+    color: #ff0000;
+}
+
+.spmenu {
+    margin-bottom: 20px
+}
+
+/* Sidebar - Fix for text overflow in sidebar menu when collapsed */
+.sidebar-mini:not(.sidebar-mini-expand-feature).sidebar-collapse .sidebar-menu > li:hover > a > span:not(.pull-right),
+.sidebar-mini:not(.sidebar-mini-expand-feature).sidebar-collapse .sidebar-menu > li:hover > .treeview-menu {
+    width: 180px; /* Alter this to increase or decrease the side bar width if want to handle it manually (default: 180px) */
+    white-space: normal; /* Alternatively, add this line so the text wraps onto second line - Which looks better TOM? */
+}
+
+.sidebar-menu {
+    white-space: normal; /* Also this makes the longer menu items line wrap when NOT collapsed.*/
+}

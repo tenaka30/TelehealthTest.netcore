@@ -1,0 +1,9 @@
+D:\Projects\Code\Work\TestBed\TestBed_Data\bin\Debug\netstandard2.0\TestBed_Data.deps.json
+D:\Projects\Code\Work\TestBed\TestBed_Data\bin\Debug\netstandard2.0\TestBed_Data.dll
+D:\Projects\Code\Work\TestBed\TestBed_Data\bin\Debug\netstandard2.0\TestBed_Data.pdb
+D:\Projects\Code\Work\TestBed\TestBed_Data\obj\Debug\netstandard2.0\TestBed_Data.csprojResolveAssemblyReference.cache
+D:\Projects\Code\Work\TestBed\TestBed_Data\obj\Debug\netstandard2.0\TestBed_Data.csproj.CoreCompileInputs.cache
+D:\Projects\Code\Work\TestBed\TestBed_Data\obj\Debug\netstandard2.0\TestBed_Data.AssemblyInfoInputs.cache
+D:\Projects\Code\Work\TestBed\TestBed_Data\obj\Debug\netstandard2.0\TestBed_Data.AssemblyInfo.cs
+D:\Projects\Code\Work\TestBed\TestBed_Data\obj\Debug\netstandard2.0\TestBed_Data.dll
+D:\Projects\Code\Work\TestBed\TestBed_Data\obj\Debug\netstandard2.0\TestBed_Data.pdb

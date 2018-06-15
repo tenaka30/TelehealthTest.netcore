@@ -1,0 +1,8 @@
+D:\Projects\Code\Work\TestBed\TestBed_Web
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=TestBed_Web
+--content-root=D:\Projects\Code\Work\TestBed\TestBed_Web
+--file=D:\Projects\Code\Work\TestBed\TestBed_Web\Views\Home\Index.cshtml
+--file=D:\Projects\Code\Work\TestBed\TestBed_Web\Views\Shared\_Layout.cshtml
+--file=D:\Projects\Code\Work\TestBed\TestBed_Web\Views\_ViewImports.cshtml
+--file=D:\Projects\Code\Work\TestBed\TestBed_Web\Views\_ViewStart.cshtml
